@@ -1,4 +1,5 @@
 import random
+import pygame
 # sound.main(file_path=None)
 
 #start menu options, 1 - play game 2 - see high scores 3 - quit
